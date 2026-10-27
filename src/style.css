@@ -9,4 +9,14 @@
 
 body {
   background-color: rgb(34, 34, 34);
+  padding-inline: 150px;
+}
+
+h1 {
+  font-size: 75px;
+  margin-top: 300px;
+}
+
+h2 {
+  font-size: 50px;
 }
